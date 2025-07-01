@@ -145,4 +145,7 @@ $RECYCLE.BIN/
 models/
 
 # Audio files
-*.wav 
+*.wav
+
+# Users
+users.json 
